@@ -13,6 +13,4 @@ echo node_modules/ > .gitignore
 
 touch index.js
 
-Add the code
-
-npm run start
+nodemon index.js
